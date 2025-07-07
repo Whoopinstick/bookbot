@@ -1,0 +1,6 @@
+[project]
+name = "bookbot"
+version = "0.1.0"
+description = "BookBot project from Boot.dev"
+requires-python = ">=3.13"
+dependencies = []
